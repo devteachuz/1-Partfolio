@@ -1,0 +1,133 @@
+.logo-img {
+    width: 120px;
+}
+.nav-link {
+    border-radius:50%;
+}
+.nav-link:hover {
+    border-radius:50%;
+    background-color: rgb(250, 96, 96);
+}
+.nv2 {
+    border-radius: 50%;
+}
+.nv2:hover {
+    border-radius: 50%;
+    background-color: rgb(111, 111, 248);
+}
+.nv3 {
+    border-radius: 50%;
+}
+.nv3:hover {
+    border-radius: 50%;
+    background-color: rgb(134, 248, 111);
+}
+.nv4 {
+    border-radius: 50%;
+}
+.nv4:hover {
+    border-radius: 50%;
+    background-color: rgb(255, 231, 97);
+}
+.nv2 {
+    border-radius: 50%;
+}
+.nv2:hover {
+    border-radius: 50%;
+    background-color: rgb(13, 217, 224);
+}
+.bg-img {
+    background-image: url(./img/bgimg.jpg);
+    background-size:cover;
+    height: 100vh;
+}
+.home-img {
+    height: 500px;
+    width: 100%;
+    border-radius: 20px;
+}
+.img-apple {
+    width: 240px;
+}
+.img-kiwi {
+    width: 210px;
+}
+
+.img-pineapple {
+    width: 200px;
+}
+.img-lemon {
+    width: 245px;
+}
+.img-cucumber {
+    width: 200px;
+} 
+.img-green {
+    width: 330px;
+}
+.img-marrow {
+    width: 290px;
+}
+.img-potato {
+    width: 290px;
+}
+.inline {
+    width: 90%;
+    outline: none;
+}
+.block {
+    width:100%;
+}
+.border h3 {
+    border: 1px solid rgb(255, 123, 123);
+    background-color: rgb(250, 96, 96);
+    color: #fff;
+    border-radius: 6px;
+}
+.color-h1 {
+    color:rgb(50, 3, 94);
+}
+.carusel-tip {
+    border-radius: 40px;
+}
+.inline-one {
+    width: 15%;
+    border: 2px solid rgb(250, 96, 96);
+    padding:3px;
+    border-radius: 3px;
+}
+.inline-two {
+    width: 75%;
+}
+.coffee-bean {
+    font-size: 300px;
+}
+.form-label {
+    font-size: 30px;
+    font-weight: 500;
+}
+.source {
+    outline: none;
+   border: 2px solid grey;
+   color: #fff;
+   background-color: rgb(70, 69, 69);
+}
+.coco {
+    width: 90px;
+}
+.source:hover {
+    border: 2px solid rgb(70, 69, 69);
+    color: rgb(70, 69, 69);
+    background-color: #fff;
+
+}
+.footer-page {
+    background-color: rgb(8, 8, 8);
+}
+.icons-take:hover {
+    color:rgb(255, 231, 97);
+    cursor: pointer;
+}
+
+
+
